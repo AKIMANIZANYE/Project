@@ -1,5 +1,9 @@
 
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
-    background-color:green;
+    background-color:paleturquoise;
+}
+#form{
+    border-radius: 3px;
+    float: right;
 }
