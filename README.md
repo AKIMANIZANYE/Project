@@ -8,9 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 I used aslo differences  method how  I can generate class ,component,through that i also created two class user form and repository for the user class it where user they will inter  the name of repository and repository class it where the descrption of the data from the username of the repository
 
-## Code scaffolding
+## Instruction of the project(how it works)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+for the first time user  is required to enter the name ofthe repository
+click submit after submiting user will see how  the followers,following,the date that created the name of that repositorty and also they can see the link.
+
 
 ## Build
 
