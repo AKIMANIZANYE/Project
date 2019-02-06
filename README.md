@@ -1,6 +1,6 @@
 # Project
 Repository
-
+This  project is about how  they can check his/her username and see the number of repository and see the number of followers ,following , the date created  and also the link of URl
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
