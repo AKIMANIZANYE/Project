@@ -3,9 +3,10 @@ Repository
 This  project is about how  they can check his/her username and see the number of repository and see the number of followers ,following , the date created  and also the link of URl
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
-## Development server
+## Development process
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+I used aslo differences  method how  I can generate class ,component,through that i also created two class user form and repository for the user class it where user they will inter  the name of repository and repository class it where the descrption of the data from the username of the repository
 
 ## Code scaffolding
 
