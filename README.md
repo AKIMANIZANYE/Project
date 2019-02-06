@@ -22,7 +22,7 @@ Angular js
 Javascript
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [AKIMANIZANYE](https://AKIMANIZANYE-Project.github.io).
 
 ## Running end-to-end tests
 
