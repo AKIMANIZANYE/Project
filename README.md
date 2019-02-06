@@ -14,10 +14,12 @@ for the first time user  is required to enter the name ofthe repository
 click submit after submiting user will see how  the followers,following,the date that created the name of that repositorty and also they can see the link.
 
 
-## Build
+## THe technology I used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
+I used  HTML
+SCC styles
+Angular js
+Javascript
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
