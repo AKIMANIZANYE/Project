@@ -22,7 +22,8 @@ Angular js
 Javascript
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [AKIMANIZANYE](https://AKIMANIZANYE-Project.github.io).
+Run `ng test` to execute the unit tests via [AKIMANIZANYE](https://AKIMANIZANYE-Project.github.io)
+https://akimanizanye.github.io/Project/index.html. for git hub repositort
 
 ## Running end-to-end tests
 
@@ -34,6 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Contact information
  Email: akimanizanyeclaudine@gmail.com 
 Phone:0789616355
+The 
 
 #License and Copyright
 
