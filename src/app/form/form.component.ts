@@ -26,22 +26,21 @@ submitUser(){
 }
 this.http.get<ApiResponse>("https://api.github.com/users/"+this.Username.username +"?access_token="+ environment.api_key).subscribe((Data:any)=>{
   console.log(Data)
-//   this.repos.public_repos=Data.repos.public_repos;
-//   this.repos.public_gists=Data.public_gists;
-// this.repos.followers=Data.followers;
-// this.repos.following=Data.following; 
-// this.repos.created_at=Data.created_at;
-// this.repos.html_Url=Data.html_Url;
-})
+  this.repos.public_repos=Data.public_repos;
+  this.repos.public_gists=Data.public_gists;
+this.repos.followers=Data.followers;
+this.repos.following=Data.following; 
+this.repos.created_at=Data.created_at;
+this.repos.html_Url=Data.html_Url;
+});
 console.log(this.Username)
   
 
 }
 constructor( private http:HttpClient) {
   this.repos=new Repository(0,0,0,0,new Date(),"")
-  
 }
-  ngOnInit() {
+ngOnInit() {
   }
 
 }
