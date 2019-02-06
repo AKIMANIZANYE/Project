@@ -3,4 +3,5 @@ body{color:pink;
 #form{
     border-radius: 3px;
     float: right;
+    font-style: italic;
 }
