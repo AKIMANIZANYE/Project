@@ -14,7 +14,7 @@ for the first time user  is required to enter the name ofthe repository
 click submit after submiting user will see how  the followers,following,the date that created the name of that repositorty and also they can see the link.
 
 
-## THe technology I used
+## The technology I used
 
 I used  HTML
 SCC styles
